@@ -24,11 +24,13 @@ It demonstrates how a complete CRM UI could be structured using **Next.js 13 App
 
 ### 📊 Dashboard - Insights & Metrics
 
-![Insights](./public/print-insights.png)
+![image](https://github.com/user-attachments/assets/20f84ed4-5637-4596-bba3-f98b9b39bc53)
+
 
 ### 🗂️ Kanban Board - Appointments Flow
 
-![Kanban](./public/print-kanban.png)
+![image](https://github.com/user-attachments/assets/323d8d50-c2c8-4664-896b-ad9aeacfa24c)
+
 
 > _You’ll find these screens under the route `/crm`._
 
